@@ -1,0 +1,96 @@
+/*  font-family: 'Roboto Slab', serif;
+    font-family: 'Lora', serif;
+    font-family: 'Anton', sans-serif;
+    
+    */
+h2 {
+    font-family: 'Lora', serif;
+    font-size: 10em;
+    color: steelblue;
+    padding: 15px;
+    margin-top: 100px;
+    margin-left: 100px;
+    float: left;
+}
+
+p {
+    font-size: .7em;
+    font-family: 'Roboto Slab', serif;
+    text-align: justify;
+}
+
+nav {
+    float: right;
+    padding: 15px;
+    text-decoration: none;
+    color:steelblue;
+}
+
+strong {
+    color: steelblue;
+}
+
+#loveletter, #thankyous {
+    color: steelblue;
+}
+
+.wedding {
+    height: 600px;
+    margin-bottom: 50px;
+    margin-left: 150px;
+    
+}
+
+.wedding2 {
+    height: 500px;
+    margin-bottom: 10px;
+    margin-left: 56px;
+}
+.iceland {
+    height: 120px;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 12px;
+    margin-top: 40px;
+    float: right;
+}
+
+footer {
+    font-family: 'Lora', serif;
+    color: steelblue;  
+}
+
+.copyright {
+    text-align: center;
+   
+}
+
+.thanks {
+    
+    margin-right: 80px;
+    text-align: left;
+    font-size: .66em;
+    font-family: 'Roboto Slab', serif;
+}
+
+.thanks1 {
+    line-height: 2em;
+    text-align: left;
+    
+}
+
+.unsentlove {
+    color: rgb(68, 100, 131);
+}
+
+.sentlove, .unsentlove {
+    margin-right: 100px;
+}
+
+q {
+    font-family: 'Roboto Slab', serif;
+    font-size: .8em;
+    float: right;
+    margin-left: 10px;
+}
